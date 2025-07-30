@@ -15,6 +15,11 @@ I'm a passionate web developer currently honing my skills at **Masai School**, w
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js, Redux (Thunk), Context API
 - Styled Components, Chakra UI
+
+**Backend**
+-nodeJS
+-expressJS
+-MongoDB
   
 **Tools & Platforms:**
 - Git & GitHub
