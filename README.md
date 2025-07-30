@@ -17,9 +17,9 @@ I'm a passionate web developer currently honing my skills at **Masai School**, w
 - Styled Components, Chakra UI
 
 **Backend**
--nodeJS
--expressJS
--MongoDB
+- nodeJS
+- expressJS
+- MongoDB
   
 **Tools & Platforms:**
 - Git & GitHub
